@@ -1,3 +1,4 @@
 {
-    "DevChat.DevChatPath": "/home/codespace/.chat/mamba/envs/devchat/bin/devchat"
+    "DevChat.DevChatPath": "/home/codespace/.chat/mamba/envs/devchat/bin/devchat",
+    "DevChat.EnableFunctionCalling": true
 }
